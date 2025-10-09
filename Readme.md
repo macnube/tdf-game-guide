@@ -30,7 +30,7 @@ New to TDF? Start with our [Quick Reference Guide](QUICK_REFERENCE.md) for key i
 **Core Concepts:**
 - **[DAO](03_governance/dao.md)** - Decentralized Autonomous Organization of TDF token holders
 - **[OASA](03_governance/oasa.md)** - Ecological oversight body
-- **[Enseada Sonhadora LDA](03_governance/enseada_sonhadora_lda.md)** - Legal entity for land ownership
+- **[Enseada Sonhadora LDA](enseada_sonhadora.md)** - Legal entity for land ownership
 - **[Guardians](02_roles-and-stakeholders/guardian.md)** - Ecological oversight with veto power
 
 **Tokens & Economy:**

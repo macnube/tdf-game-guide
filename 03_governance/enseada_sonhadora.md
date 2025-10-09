@@ -1,12 +1,12 @@
-# 🏢 Enseada Sonhadora LDA
+# 🏢 Enseada Sonhadora
 
-**Legal Entity** Enseada Sonhadora LDA is the legal entity that holds the land and manages property rights for TDF.
+**Legal Entity** Enseada Sonhadora S.A. is the legal entity that holds the land and manages property rights for TDF.
 
 > *"The legal structure that makes our regenerative vision possible."*
 
 ## 🎯 Purpose
 
-Enseada Sonhadora LDA serves as the legal foundation for TDF, providing:
+Enseada Sonhadora serves as the legal foundation for TDF, providing:
 
 - **Land Ownership** - Legal title to the TDF property
 - **Property Rights** - Managing land use rights and restrictions
@@ -59,6 +59,3 @@ Enseada Sonhadora LDA serves as the legal foundation for TDF, providing:
 - [DAO](dao.md) - Governance structure and decision-making
 - [OASA](oasa.md) - Ecological oversight and land management
 
----
-
-*"Enseada Sonhadora LDA provides the legal foundation that enables our regenerative community to thrive."*

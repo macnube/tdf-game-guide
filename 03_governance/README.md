@@ -31,7 +31,7 @@ TDF's governance operates through three distinct layers:
 
 ## 🔗 Legal Framework
 
-- [Enseada Sonhadora LDA](enseada_sonhadora_lda.md) - Legal entity for land ownership
+- [Enseada Sonhadora LDA](enseada_sonhadora.md) - Legal entity for land ownership
 - Property rights and legal compliance
 - Contract management and asset protection
 
